@@ -3,11 +3,11 @@
   <title>Labelerman的秘密基地</title>
   
   <subtitle>个人娱乐向小站</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://example.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://example.com/"/>
   <updated>2024-05-27T13:55:03.976Z</updated>
-  <id>http://example.com/</id>
+  <id>https://example.com/</id>
   
   <author>
     <name>Mr.liu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>文章测试</title>
-    <link href="http://example.com/2024/05/27/hello-world/"/>
-    <id>http://example.com/2024/05/27/hello-world/</id>
+    <link href="https://example.com/posts/undefined.html"/>
+    <id>https://example.com/posts/undefined.html</id>
     <published>2024-05-27T13:11:20.881Z</published>
     <updated>2024-05-27T13:55:03.976Z</updated>
     
@@ -34,12 +34,12 @@
     
     
     
-    <category term="学习笔记" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="node.js" scheme="http://example.com/tags/node-js/"/>
+    <category term="node.js" scheme="https://example.com/tags/node-js/"/>
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="hexo" scheme="https://example.com/tags/hexo/"/>
     
   </entry>
   

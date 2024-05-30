@@ -1,7 +1,7 @@
-http://example.com/categories/index.html
-http://example.com/tags/index.html
-http://example.com/2024/05/27/hello-world/
-http://example.com/
-http://example.com/tags/node-js/
-http://example.com/tags/hexo/
-http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
+https://example.com/categories/index.html
+https://example.com/tags/index.html
+https://example.com/posts/undefined.html
+https://example.com/
+https://example.com/tags/node-js/
+https://example.com/tags/hexo/
+https://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
